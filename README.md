@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my .Net and Flutter skills<br>🧑‍💻As a Junior .NET Developer. <br>📱 Mobile app developer. (Flutter)<br>🧑‍🎓 I graduated with a Bachelor's degree in<br>🖥️Computer Science and Information Technology (CSIT) in 2024.<br> [![.](https://pbs.twimg.com/profile_images/1770745359641284609/YrIxa32C_400x400.jpg)](https://x.com/SulavSapkota007)
+🔭 I’m currently working on improving my .Net and Flutter skills<br>🧑‍💻As a Junior .NET Developer. <br>📱 Mobile app developer. (Flutter)<br>🧑‍🎓 I graduated with a Bachelor's degree in<br>🖥️Computer Science and Information Technology (CSIT) in 2024.<br> [![.]([https://pbs.twimg.com/profile_images/1770745359641284609/YrIxa32C_400x400.jpg](https://x.com/SulavSapkota007))](https://x.com/SulavSapkota007)
 
 
 ## 🌐 Socials:
